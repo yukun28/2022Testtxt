@@ -13,6 +13,7 @@ import java.util.List;
 
 /**
  * Created by Administrator on 2019/7/30.
+ * 还不错哦
  */
 public class InfoDaoImpl implements InfoDao {
     private QueryRunner queryRunner=new QueryRunner(C3p0Util.getDatasource());
