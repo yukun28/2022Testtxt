@@ -11,6 +11,7 @@ import java.util.List;
 
 /**
  * Created by Administrator on 2019/7/30.
+ * mlgbde 
  */
 public class ReplyDaoImpl implements ReplyDao {
     private QueryRunner queryRunner = new QueryRunner(C3p0Util.getDatasource());
